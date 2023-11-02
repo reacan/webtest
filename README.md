@@ -1,3 +1,3 @@
 # webtest
 
-This is a simple web-app containing two pages.
+This is a simple test web-app containing two pages.
