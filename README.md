@@ -12,5 +12,5 @@
 | **save-product.php** | database call to sanitize and validate data and save products |
 |**js/add-product.js**| JavaScript for "Add Product" page, display specific attributes, post data |
 | **js/app.js** | JavaScript for the title page, populate items, delete selected |
-| **js/validation** | JavaScript for "Add Product" page, error messages for the user"
+| **js/validation** | JavaScript for "Add Product" page, error messages for the user
 
